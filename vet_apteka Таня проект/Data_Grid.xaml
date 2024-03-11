@@ -1,0 +1,104 @@
+﻿<Window x:Class="vet_apteka_Таня_проект.Data_Grid"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:vet_apteka_Таня_проект"
+        xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        mc:Ignorable="d" WindowStartupLocation="CenterScreen" WindowStyle="None"
+        AllowsTransparency="True" Background="Transparent"
+        Title="Data_Grid" Height="650" Width="1080">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+
+
+
+        <Border CornerRadius="10 0 0 10">
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#3AA9AD" Offset="0"/>
+                    <GradientStop Color="#3AADA1" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+        </Border>
+
+        <Grid>
+            <Canvas>
+                <Polygon Points="0, 20 200, 140 0, 270" Fill="#4EB1B6" Height="273" Width="234" Canvas.Left="4" Canvas.Top="78" RenderTransformOrigin="0.345,0.552" HorizontalAlignment="Center" VerticalAlignment="Top">
+                    <Polygon.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform/>
+                            <SkewTransform/>
+                            <RotateTransform Angle="-0.638"/>
+                            <TranslateTransform X="0.157" Y="-19.979"/>
+                        </TransformGroup>
+                    </Polygon.RenderTransform>
+                </Polygon>
+                <Polygon Points="100, 400 200, 370 180, 470" Fill="#4EB1B6"  Canvas.Top="-18" />
+                <Ellipse Margin="200 490 0 0" Width="40" Height="40" Fill="#4EB1B6" RenderTransformOrigin="-0.983,1.118"/>
+                <Ellipse Margin="50 400 0 0" Width="20" Height="20" Fill="#4EB1B6"/>
+            </Canvas>
+            <StackPanel>
+                <Button HorizontalAlignment="Left" Margin="20, 28, 0, 35" Style="{StaticResource topButton}" >
+                    <Icon:PackIconMaterial Kind="Menu" Width="30" Height="30"/>
+                </Button>
+                <Button x:Name="user" Content="Личный кабинет" Style="{StaticResource button_panel}" />
+                <Button x:Name="korzina" Content="Корзина" Style="{StaticResource button_panel}" />
+                <Button x:Name="zakaz" Content="Заказы" Style="{StaticResource button_panel}" />
+                <Button x:Name="exit" Click="btn_Exit" Content="Выход" Style="{StaticResource button_panel}" />
+            </StackPanel>
+        </Grid>
+        <Border Background="#ffffff" Grid.Column="1" CornerRadius="0 10 10 0">
+            <StackPanel VerticalAlignment="Center">
+                <TextBlock Text="Редакция каталога" Style="{StaticResource titleText}" Foreground="#3AA9AD"/>
+                <DataGrid x:Name="DGrid" AutoGenerateColumns="False" IsReadOnly="True"  Background="White" Margin="0,20,0,0" Grid.RowSpan="2" SelectionChanged="DGrid_SelectionChanged" Height="450" Width="772">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="id" Binding="{Binding id_product}"  Width="10"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Название продукта" Binding="{Binding name_product}" Width="200"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Категория" Binding="{Binding category}" Width="150"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Количество" Binding="{Binding kolichestvo}" Width="100"></DataGridTextColumn>
+                        <DataGridTextColumn Header="Цена" Binding="{Binding price}" Width="100"></DataGridTextColumn>
+                        <DataGridTemplateColumn Width="auto">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Button Content="Редактировать" Style="{StaticResource dgridbutton}" Width="160" Height="60" Name="BtnEdit" Click="Edit_ListView"></Button>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <Button Content="Изменить" Click="Edit"  Style="{StaticResource mainbutton}" Width="224"/>
+            </StackPanel>
+        </Border>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="50"/>
+                    <ColumnDefinition Width="50"/>
+                    <ColumnDefinition Width="50"/>
+                </Grid.ColumnDefinitions>
+
+                <Button x:Name="btn_min" Grid.Column="1" Background="Transparent" BorderBrush="Transparent"  Style="{StaticResource imgClose}" Click="btn_MIN">
+                    <Image Source="/Images/line active1.png" />
+                </Button>
+
+                <Button x:Name="btn_max" Grid.Column="2" Background="Transparent" BorderBrush="Transparent" Style="{StaticResource imgClose}" Click="btn_MAX">
+                    <Image Source="/Images/stop.png" Margin="10"/>
+                </Button>
+                <Button x:Name="btn_close" Grid.Column="4" Background="Transparent" BorderBrush="Transparent" Style="{StaticResource imgClose}" Click="btn_CLOSE">
+                    <Image Source="/Images/krestick.png"/>
+                </Button>
+
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>
