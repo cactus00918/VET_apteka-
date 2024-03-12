@@ -1,0 +1,139 @@
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\VET_apteka_MarkupCompile.cache
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\VET_apteka_MarkupCompile.lref
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\VET_apteka.exe
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\VET_apteka.deps.json
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\VET_apteka.runtimeconfig.json
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\VET_apteka.dll
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\VET_apteka.pdb
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.g.resources
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.AssemblyInfoInputs.cache
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.AssemblyInfo.cs
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.csproj.CoreCompileInputs.cache
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.dll
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\refint\VET_apteka.dll
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.pdb
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.genruntimeconfig.cache
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\ref\VET_apteka.dll
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\App.baml
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.Properties.Resources.resources
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.csproj.GenerateResource.cache
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.csproj.AssemblyReference.cache
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\Catalog.g.cs
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\Regisration.g.cs
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\Catalog.baml
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\Regisration.baml
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.csproj.CopyComplete
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\cactus_009\source\repos\VET_apteka\VET_apteka\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.csproj.AssemblyReference.cache
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\Capcha.g.cs
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\Catalog.g.cs
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\MainWindow.g.cs
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\Regisration.g.cs
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\App.g.cs
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka_MarkupCompile.cache
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka_MarkupCompile.lref
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\refint\VET_apteka.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.pdb
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\VET_apteka.exe
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\VET_apteka.deps.json
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\VET_apteka.runtimeconfig.json
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\VET_apteka.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\VET_apteka.pdb
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Npgsql.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\App.baml
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\Capcha.baml
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\Catalog.baml
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\MainWindow.baml
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\Regisration.baml
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.g.resources
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.Properties.Resources.resources
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.csproj.GenerateResource.cache
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.AssemblyInfoInputs.cache
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.AssemblyInfo.cs
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.csproj.CoreCompileInputs.cache
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.csproj.CopyComplete
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.genruntimeconfig.cache
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\ref\VET_apteka.dll
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\VET_apteka.exe
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\VET_apteka.deps.json
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\VET_apteka.runtimeconfig.json
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\VET_apteka.dll
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\VET_apteka.pdb
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\Capcha.g.cs
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\Catalog.g.cs
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\Regisration.g.cs
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka_MarkupCompile.cache
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka_MarkupCompile.lref
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\App.baml
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\Capcha.baml
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\Catalog.baml
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\Regisration.baml
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.g.resources
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.Properties.Resources.resources
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.csproj.GenerateResource.cache
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.AssemblyInfo.cs
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.csproj.CopyComplete
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.dll
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\refint\VET_apteka.dll
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.pdb
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\VET_apteka.genruntimeconfig.cache
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net6.0-windows\ref\VET_apteka.dll

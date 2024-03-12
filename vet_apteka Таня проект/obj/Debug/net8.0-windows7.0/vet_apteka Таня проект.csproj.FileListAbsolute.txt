@@ -1,0 +1,54 @@
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\vet_apteka Таня проект.csproj.AssemblyReference.cache
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\vet_apteka Таня проект.csproj.ResolveComReference.cache
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\Capcha.g.cs
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\Catalog.g.cs
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\Data_Grid.g.cs
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\MainWindow.g.cs
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\Redact.g.cs
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\Regisration.g.cs
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\App.g.cs
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\vet_apteka Таня проект_MarkupCompile.cache
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\vet_apteka Таня проект_MarkupCompile.lref
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\vet_apteka Таня проект.exe
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\vet_apteka Таня проект.deps.json
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\vet_apteka Таня проект.runtimeconfig.json
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\vet_apteka Таня проект.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\vet_apteka Таня проект.pdb
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\MahApps.Metro.IconPacks.Core.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\MahApps.Metro.IconPacks.Material.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Options.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\Microsoft.Office.Interop.Excel.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\Npgsql.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\bin\Debug\net8.0-windows7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\App.baml
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\Capcha.baml
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\Catalog.baml
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\Data_Grid.baml
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\MainWindow.baml
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\Redact.baml
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\Regisration.baml
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\vet_apteka Таня проект.g.resources
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\vet_apteka_Таня_проект.Properties.Resources.resources
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\vet_apteka Таня проект.csproj.GenerateResource.cache
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\vet_apteka Таня проект.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\vet_apteka Таня проект.AssemblyInfoInputs.cache
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\vet_apteka Таня проект.AssemblyInfo.cs
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\vet_apteka Таня проект.csproj.CoreCompileInputs.cache
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\vet_apte.06865B73.Up2Date
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\vet_apteka Таня проект.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\refint\vet_apteka Таня проект.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\vet_apteka Таня проект.pdb
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\vet_apteka Таня проект.genruntimeconfig.cache
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\net8.0-windows7.0\ref\vet_apteka Таня проект.dll

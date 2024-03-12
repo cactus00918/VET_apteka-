@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|c:\\users\\cactus_009\\source\\repos\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\catalog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|solutionrelative:vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\catalog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|c:\\users\\cactus_009\\source\\repos\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|solutionrelative:vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|c:\\users\\cactus_009\\source\\repos\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\catalog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|solutionrelative:vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\catalog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|c:\\users\\cactus_009\\source\\repos\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\redact.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|solutionrelative:vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\redact.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|c:\\users\\cactus_009\\source\\repos\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\redact.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|solutionrelative:vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\redact.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|c:\\users\\cactus_009\\source\\repos\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|solutionrelative:vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\tables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|c:\\users\\cactus_009\\source\\repos\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\capcha.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|solutionrelative:vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\capcha.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|c:\\users\\cactus_009\\source\\repos\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|solutionrelative:vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|c:\\users\\cactus_009\\source\\repos\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\data_grid.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|solutionrelative:vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\data_grid.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|c:\\users\\cactus_009\\source\\repos\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\data_grid.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|solutionrelative:vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\data_grid.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|c:\\users\\cactus_009\\source\\repos\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\capcha.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|solutionrelative:vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\capcha.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|c:\\users\\cactus_009\\source\\repos\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|solutionrelative:vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|c:\\users\\cactus_009\\source\\repos\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|solutionrelative:vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|c:\\users\\cactus_009\\source\\repos\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\regisration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|solutionrelative:vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\regisration.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|c:\\users\\cactus_009\\source\\repos\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\regisration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{955DE686-D27E-4146-A499-34E8BE2BB4C6}|vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442.csproj|solutionrelative:vet_apteka \u0442\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\regisration.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Data_Grid.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Data_Grid.xaml.cs",
+              "RelativeDocumentMoniker": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Data_Grid.xaml.cs",
+              "ToolTip": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Data_Grid.xaml.cs",
+              "RelativeToolTip": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Data_Grid.xaml.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAuwDgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-16T13:35:52.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\App.xaml",
+              "RelativeDocumentMoniker": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\App.xaml",
+              "ToolTip": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\App.xaml",
+              "RelativeToolTip": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-16T12:00:58.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Data_Grid.xaml",
+              "DocumentMoniker": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Data_Grid.xaml",
+              "RelativeDocumentMoniker": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Data_Grid.xaml",
+              "ToolTip": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Data_Grid.xaml",
+              "RelativeToolTip": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Data_Grid.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-06T18:26:17.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Redact.xaml",
+              "DocumentMoniker": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Redact.xaml",
+              "RelativeDocumentMoniker": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Redact.xaml",
+              "ToolTip": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Redact.xaml",
+              "RelativeToolTip": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Redact.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-06T07:33:38.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Catalog.xaml",
+              "DocumentMoniker": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Catalog.xaml",
+              "RelativeDocumentMoniker": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Catalog.xaml",
+              "ToolTip": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Catalog.xaml",
+              "RelativeToolTip": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Catalog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-05T08:01:27.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Redact.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Redact.xaml.cs",
+              "RelativeDocumentMoniker": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Redact.xaml.cs",
+              "ToolTip": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Redact.xaml.cs",
+              "RelativeToolTip": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Redact.xaml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAYwDkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T07:47:57.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Regisration.xaml",
+              "DocumentMoniker": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Regisration.xaml",
+              "RelativeDocumentMoniker": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Regisration.xaml",
+              "ToolTip": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Regisration.xaml",
+              "RelativeToolTip": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Regisration.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-06T07:18:57.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Regisration.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Regisration.xaml.cs",
+              "RelativeDocumentMoniker": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Regisration.xaml.cs",
+              "ToolTip": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Regisration.xaml.cs",
+              "RelativeToolTip": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Regisration.xaml.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAswEkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T07:19:06.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Catalog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Catalog.xaml.cs",
+              "RelativeDocumentMoniker": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Catalog.xaml.cs",
+              "ToolTip": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Catalog.xaml.cs",
+              "RelativeToolTip": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Catalog.xaml.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAA7wFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T08:01:27.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Capcha.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Capcha.xaml.cs",
+              "RelativeDocumentMoniker": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Capcha.xaml.cs",
+              "ToolTip": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Capcha.xaml.cs",
+              "RelativeToolTip": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Capcha.xaml.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswEUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T08:01:27.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Capcha.xaml",
+              "DocumentMoniker": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Capcha.xaml",
+              "RelativeDocumentMoniker": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Capcha.xaml",
+              "ToolTip": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Capcha.xaml",
+              "RelativeToolTip": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Capcha.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-05T08:01:27.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\MainWindow.xaml",
+              "RelativeToolTip": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-05T08:01:27.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tables.cs",
+              "DocumentMoniker": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Tables.cs",
+              "RelativeDocumentMoniker": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Tables.cs",
+              "ToolTip": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Tables.cs",
+              "RelativeToolTip": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\Tables.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwBkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T08:01:27.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\MainWindow.xaml.cs",
+              "RelativeToolTip": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T08:01:27.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\cactus_009\\source\\repos\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\ApplicationContext.cs",
+              "RelativeToolTip": "vet_apteka \u0422\u0430\u043D\u044F \u043F\u0440\u043E\u0435\u043A\u0442\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T08:01:27.247Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

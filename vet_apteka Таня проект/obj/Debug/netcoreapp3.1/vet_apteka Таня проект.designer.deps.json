@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MahApps.Metro.IconPacks.Material/4.11.0": {
+        "runtime": {
+          "lib/netcoreapp3.1/MahApps.Metro.IconPacks.Core.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          },
+          "lib/netcoreapp3.1/MahApps.Metro.IconPacks.Material.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.11.0.12"
+          }
+        }
+      },
+      "Microsoft.Office.Interop.Excel/15.0.4795.1001": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Office.Interop.Excel.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.4795.1000"
+          }
+        }
+      },
+      "Npgsql.EntityFrameworkCore.PostgreSQL/8.0.2": {}
+    }
+  },
+  "libraries": {
+    "MahApps.Metro.IconPacks.Material/4.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZCuuxWHvXxl39XBYXk4PCMUVtw1pevT5AE1qsj7VRy2tRtDYbzHWYW0FbnH+Vf0rP7BogZrRlKns3zFEkDEjFQ==",
+      "path": "mahapps.metro.iconpacks.material/4.11.0",
+      "hashPath": "mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512"
+    },
+    "Microsoft.Office.Interop.Excel/15.0.4795.1001": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cuvqi/U5MYSM0gvR2l90q0m/urRgmg69EiwP5VWp1RcaJ0YT5G26Va5LaOZ3KJFc22FNihS5CUjeePUp2YpGQA==",
+      "path": "microsoft.office.interop.excel/15.0.4795.1001",
+      "hashPath": "microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512"
+    },
+    "Npgsql.EntityFrameworkCore.PostgreSQL/8.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eoZPynwkZTWFTgnocvXORuCL2yFZtscrUdqVhjxiRULpC7BMg9zhLM5oDZAU5PoX1PgN77hmkKE4a3PQiHqh7Q==",
+      "path": "npgsql.entityframeworkcore.postgresql/8.0.2",
+      "hashPath": "npgsql.entityframeworkcore.postgresql.8.0.2.nupkg.sha512"
+    }
+  }
+}

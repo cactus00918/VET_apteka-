@@ -1,0 +1,12 @@
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\netcoreapp3.1\vet_apteka Таня проект.csproj.AssemblyReference.cache
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\netcoreapp3.1\vet_apteka Таня проект.csproj.ResolveComReference.cache
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\netcoreapp3.1\Capcha.g.cs
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\netcoreapp3.1\Catalog.g.cs
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\netcoreapp3.1\Data_Grid.g.cs
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\netcoreapp3.1\Redact.g.cs
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\netcoreapp3.1\Regisration.g.cs
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\netcoreapp3.1\vet_apteka Таня проект_MarkupCompile.cache
+C:\Users\cactus_009\source\repos\vet_apteka Таня проект\vet_apteka Таня проект\obj\Debug\netcoreapp3.1\vet_apteka Таня проект_MarkupCompile.lref

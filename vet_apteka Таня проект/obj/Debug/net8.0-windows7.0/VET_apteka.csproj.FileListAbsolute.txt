@@ -1,0 +1,31 @@
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\VET_apteka.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\Capcha.g.cs
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\Catalog.g.cs
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\MainWindow.g.cs
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\Regisration.g.cs
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\App.g.cs
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\VET_apteka_MarkupCompile.cache
+C:\Users\User\Downloads\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\VET_apteka_MarkupCompile.lref
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\VET_apteka.csproj.AssemblyReference.cache
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\Capcha.g.cs
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\Catalog.g.cs
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\MainWindow.g.cs
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\Regisration.g.cs
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\App.g.cs
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\VET_apteka_MarkupCompile.cache
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\VET_apteka_MarkupCompile.lref
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\App.baml
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\Capcha.baml
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\Catalog.baml
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\MainWindow.baml
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\Regisration.baml
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\VET_apteka.g.resources
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\VET_apteka.Properties.Resources.resources
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\VET_apteka.csproj.GenerateResource.cache
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\VET_apteka.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\VET_apteka.AssemblyInfoInputs.cache
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\VET_apteka.AssemblyInfo.cs
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\VET_apteka.csproj.CoreCompileInputs.cache
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\VET_apteka.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\refint\VET_apteka.dll
+G:\Мой диск\VET_apteka Таня проект\VET_apteka\obj\Debug\net8.0-windows7.0\VET_apteka.pdb
